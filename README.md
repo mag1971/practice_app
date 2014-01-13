@@ -1,6 +1,6 @@
 == README
 
-Ruby on rails Practice App
+#Ruby on rails Practice App
 
 This is a simple app to help improve knowledge of testing and GIT.
 
